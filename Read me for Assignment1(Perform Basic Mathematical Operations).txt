@@ -1,1 +1,21 @@
-I have used multiple input statements to get 2 numbers from the user
+Basic Arithmetic CalculatorA simple, user-friendly Python script that performs fundamental mathematical operations. 
+This tool takes two numerical inputs from the user and instantly calculates their sum, difference, product, and quotient.
+
+🚀 Features
+Addition: Calculates the total of two numbers.
+Subtraction: Subtracts the second number from the first.
+Multiplication: Finds the product of two numbers.
+Division: Provides the decimal result of dividing the first number by the second.
+
+🛠️ How It Works
+The script follows a straightforward logic flow:
+Input: Prompts the user to enter two integers.
+Processing: Executes the four basic arithmetic operators (+, -, *, /).
+Output: Displays the results clearly in the terminal.
+
+📋 Prerequisites
+To run this script, you only need:
+- Python 3.x installed on your machine.
+
+💻 Usage
+Clone or Download the script to your local machine.
